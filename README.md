@@ -1,8 +1,8 @@
 <div align="center">
 
-<!-- Animated Header -->
+<!-- Animated Header 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066cc,100:00d9ff&height=200&section=header&text=HARSHITA%20SINGH&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20ML%20Enthusiast&descAlignY=55&descSize=18" />
-
+-->
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=Result-oriented+AI+%26+Data+Science+Graduate;Transforming+Data+into+Impactful+Solutions;Mastering+ML%2C+GenAI%2C+Computer+Vision+%26+NLP;Building+the+Future+with+AI+%F0%9F%9A%80" alt="Typing SVG" />
