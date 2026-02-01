@@ -19,7 +19,7 @@
   <a href="https://github.com/HS-4791">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://github.com/HS-4791/HS-4791/blob/main/Harshita_Singh_Resume.pdf">
+  <a href="https://github.com/HS-4791/HS-4791/blob/main/Harshita Singh___Resume.pdf">
     <img src="https://img.shields.io/badge/Resume-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
   </a>
 </p>
