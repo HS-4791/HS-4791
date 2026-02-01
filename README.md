@@ -10,7 +10,7 @@
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/harshita-singh-ai-ds/">
+  <a href="https://www.linkedin.com/in/harshita-singh-996853232/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:harshita.singh4791@gmail.com">
@@ -409,7 +409,7 @@ graph LR
 ### **∇ Building the future, one algorithm at a time ∫**
 
 <p>
-  <a href="https://www.linkedin.com/in/harshita-singh-ai-ds/">
+  <a href="https://www.linkedin.com/in/harshita-singh-996853232/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:harshita.singh4791@gmail.com">
